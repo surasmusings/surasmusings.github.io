@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Poetry on Sura&#39;s Musings</title>
+    <link>http://localhost:45667/poetry/</link>
+    <description>Recent content in Poetry on Sura&#39;s Musings</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+    <lastBuildDate>Tue, 08 Jul 2025 08:51:04 +0530</lastBuildDate><atom:link href="http://localhost:45667/poetry/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Listen</title>
+      <link>http://localhost:45667/poetry/listen/</link>
+      <pubDate>Sun, 09 Feb 2025 08:37:13 +0530</pubDate>
+      
+      <guid>http://localhost:45667/poetry/listen/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45667/poetry/listen/featured.png" />
+    </item>
+    
+    <item>
+      <title>Sinned</title>
+      <link>http://localhost:45667/poetry/sinned/</link>
+      <pubDate>Mon, 27 Jan 2025 08:37:03 +0530</pubDate>
+      
+      <guid>http://localhost:45667/poetry/sinned/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45667/poetry/sinned/featured.png" />
+    </item>
+    
+    <item>
+      <title>Mane</title>
+      <link>http://localhost:45667/poetry/mane/</link>
+      <pubDate>Mon, 30 Sep 2024 08:36:56 +0530</pubDate>
+      
+      <guid>http://localhost:45667/poetry/mane/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45667/poetry/mane/featured.png" />
+    </item>
+    
+    <item>
+      <title>Holocene</title>
+      <link>http://localhost:45667/poetry/holocene/</link>
+      <pubDate>Wed, 11 Sep 2024 08:36:41 +0530</pubDate>
+      
+      <guid>http://localhost:45667/poetry/holocene/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45667/poetry/holocene/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

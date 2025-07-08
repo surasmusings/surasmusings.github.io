@@ -1,0 +1,10 @@
+@font-face {
+    font-family: Garamond;
+    src: url('/fonts/EBGaramond-Regular.ttf');
+}
+
+html {
+    font-family: Garamond;
+    font-size: 14pt;
+}
+
