@@ -3,37 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://surasmusings.com/poetry/</loc>
+    <loc>http://localhost:1313/poetry/</loc>
     <lastmod>2025-07-08T08:51:04+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://surasmusings.com/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-07-08T08:51:04+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://surasmusings.com/poetry/listen/</loc>
+    <loc>http://localhost:1313/poetry/listen/</loc>
     <lastmod>2025-02-09T08:37:13+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://surasmusings.com/poetry/sinned/</loc>
+    <loc>http://localhost:1313/poetry/sinned/</loc>
     <lastmod>2025-01-27T08:37:03+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://surasmusings.com/poetry/mane/</loc>
+    <loc>http://localhost:1313/poetry/mane/</loc>
     <lastmod>2024-09-30T08:36:56+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://surasmusings.com/poetry/holocene/</loc>
+    <loc>http://localhost:1313/poetry/holocene/</loc>
     <lastmod>2024-09-11T08:36:41+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
