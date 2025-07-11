@@ -2,51 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Poetry on Sura&#39;s Musings</title>
-    <link>http://localhost:1313/poetry/</link>
+    <link>https://surasmusings.com/poetry/</link>
     <description>Recent content in Poetry on Sura&#39;s Musings</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-    <lastBuildDate>Tue, 08 Jul 2025 08:51:04 +0530</lastBuildDate><atom:link href="http://localhost:1313/poetry/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Jul 2025 08:51:04 +0530</lastBuildDate><atom:link href="https://surasmusings.com/poetry/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Crunches &amp; Coil</title>
+      <link>https://surasmusings.com/poetry/crunches_and_coil/</link>
+      <pubDate>Fri, 11 Jul 2025 16:43:29 +0530</pubDate>
+      
+      <guid>https://surasmusings.com/poetry/crunches_and_coil/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://surasmusings.com/poetry/crunches_and_coil/featured.png" />
+    </item>
     
     <item>
       <title>Listen</title>
-      <link>http://localhost:1313/poetry/listen/</link>
+      <link>https://surasmusings.com/poetry/listen/</link>
       <pubDate>Sun, 09 Feb 2025 08:37:13 +0530</pubDate>
       
-      <guid>http://localhost:1313/poetry/listen/</guid>
+      <guid>https://surasmusings.com/poetry/listen/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/poetry/listen/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://surasmusings.com/poetry/listen/featured.png" />
     </item>
     
     <item>
       <title>Sinned</title>
-      <link>http://localhost:1313/poetry/sinned/</link>
+      <link>https://surasmusings.com/poetry/sinned/</link>
       <pubDate>Mon, 27 Jan 2025 08:37:03 +0530</pubDate>
       
-      <guid>http://localhost:1313/poetry/sinned/</guid>
+      <guid>https://surasmusings.com/poetry/sinned/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/poetry/sinned/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://surasmusings.com/poetry/sinned/featured.png" />
     </item>
     
     <item>
       <title>Mane</title>
-      <link>http://localhost:1313/poetry/mane/</link>
+      <link>https://surasmusings.com/poetry/mane/</link>
       <pubDate>Mon, 30 Sep 2024 08:36:56 +0530</pubDate>
       
-      <guid>http://localhost:1313/poetry/mane/</guid>
+      <guid>https://surasmusings.com/poetry/mane/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/poetry/mane/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://surasmusings.com/poetry/mane/featured.png" />
     </item>
     
     <item>
       <title>Holocene</title>
-      <link>http://localhost:1313/poetry/holocene/</link>
+      <link>https://surasmusings.com/poetry/holocene/</link>
       <pubDate>Wed, 11 Sep 2024 08:36:41 +0530</pubDate>
       
-      <guid>http://localhost:1313/poetry/holocene/</guid>
+      <guid>https://surasmusings.com/poetry/holocene/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/poetry/holocene/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://surasmusings.com/poetry/holocene/featured.png" />
     </item>
     
   </channel>
