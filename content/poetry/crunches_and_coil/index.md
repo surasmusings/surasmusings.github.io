@@ -1,6 +1,6 @@
 +++
 date = '2025-07-11T16:43:29+05:30'
-title = 'Crunches & Coil'
+title = 'Crunches & Coils'
 +++
 
 ![cover](./featured.png)
