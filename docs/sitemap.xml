@@ -3,14 +3,38 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://surasmusings.com/poetry/crunches_and_coil/</loc>
-    <lastmod>2025-07-11T16:43:29+05:30</lastmod>
+    <loc>https://surasmusings.com/pensives/choices/</loc>
+    <lastmod>2025-08-20T20:38:08+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://surasmusings.com/</loc>
+    <lastmod>2025-08-20T20:38:08+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://surasmusings.com/poetry/untitled/</loc>
+    <lastmod>2025-08-19T20:33:53+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://surasmusings.com/poetry/will_you/</loc>
+    <lastmod>2025-08-06T20:22:50+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://surasmusings.com/poetry/crunches_and_coils/</loc>
     <lastmod>2025-07-11T16:43:29+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://surasmusings.com/pensives/</loc>
+    <lastmod>2025-07-08T08:51:04+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

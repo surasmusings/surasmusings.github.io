@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pensives on Sura&#39;s Musings</title>
+    <link>https://surasmusings.com/pensives/</link>
+    <description>Recent content in Pensives on Sura&#39;s Musings</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+    <lastBuildDate>Tue, 08 Jul 2025 08:51:04 +0530</lastBuildDate><atom:link href="https://surasmusings.com/pensives/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Choices</title>
+      <link>https://surasmusings.com/pensives/choices/</link>
+      <pubDate>Wed, 20 Aug 2025 20:38:08 +0530</pubDate>
+      
+      <guid>https://surasmusings.com/pensives/choices/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://surasmusings.com/pensives/choices/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
