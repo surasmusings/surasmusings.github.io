@@ -4,7 +4,13 @@
 
   <url>
     <loc>https://surasmusings.com/</loc>
-    <lastmod>2025-08-24T21:10:13+05:30</lastmod>
+    <lastmod>2025-09-01T20:24:21+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://surasmusings.com/pensives/the_unoriginal_need_to_be_unique/</loc>
+    <lastmod>2025-09-01T20:24:21+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
