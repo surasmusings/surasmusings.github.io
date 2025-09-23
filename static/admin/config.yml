@@ -1,0 +1,46 @@
+# local_backend: true
+
+backend:
+  name: github
+  repo: surasmusings/surasmusings.github.io
+  branch: master
+  commit_messages:
+    create: Create {{collection}} “{{slug}}”
+    update: Update {{collection}} “{{slug}}”
+    delete: Delete {{collection}} “{{slug}}”
+    uploadMedia: Upload “{{path}}”
+    deleteMedia: Delete “{{path}}”
+    openAuthoring: '{{message}}'
+
+media_folder: "assets/img"
+public_folder: "/assets/img"
+
+collections:
+  - name: "pensives" # Used in routes, e.g., /admin/collections/blog
+    label: "Pensives" # Used in the UI
+    folder: "content/pensives" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    format: "toml-frontmatter"
+    slug: "{{slug}}/index" # Filename template, e.g., YYYY-MM-DD-title.md
+    media_folder: ""
+    public_folder: ""
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Cover Image", name: "image", widget: "image", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "poetry" # Used in routes, e.g., /admin/collections/blog
+    label: "Poetry" # Used in the UI
+    folder: "content/poetry" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    format: "toml-frontmatter"
+    slug: "{{slug}}/index" # Filename template, e.g., YYYY-MM-DD-title.md
+    media_folder: ""
+    public_folder: ""
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Cover Image", name: "image", widget: "image", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+
