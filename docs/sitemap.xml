@@ -3,8 +3,14 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>https://surasmusings.com/poetry/dawn/</loc>
+    <lastmod>2025-10-08T15:54:00+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://surasmusings.com/</loc>
-    <lastmod>2025-09-09T13:15:39+05:30</lastmod>
+    <lastmod>2025-10-08T15:54:00+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

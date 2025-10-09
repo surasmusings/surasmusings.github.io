@@ -5,34 +5,21 @@ image = "featured.png"
 +++
 
 
-Empty promises
+![cover](./featured.png)
 
-Broken ties
-
-Everything she misses
-
-Well here it lies.
-
-Thirteen feet under the ground 
-
-Safe and sound
-
-That's where she was found
-
-Tethered and bound.
-
-Everything meaningless 
-
-Begging to be blessed 
-
-No more no less
-
-Just remained a fractured mess.
-
-Nails hammered down
-
-The coffin so brown
-
-In the tainted white gown
-
-Bloomed a new dark dawn.
+Empty promises<br>
+Broken ties<br>
+Everything she misses<br>
+Well here it lies.<br>
+Thirteen feet under the ground <br>
+Safe and sound<br>
+That's where she was found<br>
+Tethered and bound.<br>
+Everything meaningless <br>
+Begging to be blessed <br>
+No more no less<br>
+Just remained a fractured mess.<br>
+Nails hammered down<br>
+The coffin so brown<br>
+In the tainted white gown<br>
+Bloomed a new dark dawn.<br>
