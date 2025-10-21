@@ -19,8 +19,6 @@ From the sound to my eyes I could've sworn
 
 Low fidelity was all that shone.
 
-
-
 The haze is a life of despair
 
 Only one that you can never repair
@@ -34,3 +32,9 @@ The least i could do was stare
 And watch as my haze declare
 
 That I was and will only ever be bare.
+
+![](cover-images-1.jpg)
+
+![]()
+
+![]()
