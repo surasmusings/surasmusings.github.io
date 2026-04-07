@@ -3,6 +3,8 @@ title = "Smoke Screen"
 date = "2026-04-07T20:50:00.000+01:00"
 image = "photo_2026-04-07_20-49-00.jpg"
 +++
+![](photo_2026-04-07_20-49-00.jpg)
+
 It was a random stormy night
 
 Both around and within
